@@ -24,7 +24,7 @@ Established a professional presence on GitHub, LinkedIn, and Kaggle.This include
 ### 3. Platforms & Collaboration (Module 3)
 Completed a beginner coding challenge on HackerRank and developed a "Digital Literacy Awareness Quiz" using Google Forms to facilitate peer learning.
 * **Folder:** `task-3-platforms` 
-* **Quiz Link:** [Insert your Google Form link here] 
+* **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSddK1K63qld97tTdkB71IEXVx6SQs-8Ll7QcXPF__BpnOQLag/viewform?usp=publish-editor 
 
 ### 4. Email Etiquette & Social Media (Module 4)
 Drafted professional emails for academic and internship inquiries, and compiled a "Do's and Don'ts" guide for responsible social media use among college students.
