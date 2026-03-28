@@ -3,7 +3,7 @@
 ## Student Details
 * **Name:** Shreyansh nigam 
 * **Registration Number:** 25MIP10021 
-* **Branch:** Integrated M.Tech in Computation & Data Science 
+* **Branch:** Integrated M.Tech in Computational & Data Science 
 * **Institution:** VIT Bhopal University 
 
 ## Project Overview
