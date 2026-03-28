@@ -1,0 +1,26 @@
+Stay Safe Online Checklist (prevention-checklist.md)
+Make a file and include the following 8 actionable safety tips:
+
+
+-PIN Privacy: Never enter your UPI PIN to 'receive' money. Only for sending or checking balances.
+
+
+-Verify Identities: Always double-check the identity of the receiver in the UPI app before hitting 'Send'.
+
+
+-Use Strong Passwords: Use a unique combination of characters for banking and college portal passwords.
+
+
+-Enable MFA: Enable Multi-Factor Authentication for email and social media accounts.
+
+
+-Secure Connections: Never do transactions over unsecured or public Wi-Fi.
+
+
+-Spot Phishing: Never click on suspicious links in SMS or email saying 'blocked account.
+
+
+-Official Apps Only: Only download banking and payment apps from the official Play Store or App Store.
+
+
+-Reporting: In case of fraud, immediately report to the National Cyber Crime Portal (cybercrime.gov.in) or call the Helpline 1930
